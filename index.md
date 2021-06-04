@@ -12,6 +12,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   alert(document.cookie); 
   } 
 </script>
+<body> Bine ai venit la lab 
+  <button onclick="alertCookie()">
+    Show cookies
+  </button> 
+</body>
 
 ### NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE
 
