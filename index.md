@@ -9,6 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     Show cookies
   </button> 
 </body>
+<script> 
+  document.cookie = "session=test GDPR"; 
+  document.cookie = "favorite_task=collect Data"; 
+  function alertCookie() {alert(document.cookie); } 
+</script>
 
 ### NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE
 
