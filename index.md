@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/SorinDemian/labwork/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<script> 
+<body> Bine ai venit la lab 
+  <button onclick="alertCookie()">
+    Show cookies
+    <script> 
   document.cookie = "session=test GDPR"; 
   document.cookie = "favorite_task=collect Data"; 
   function alertCookie() 
@@ -12,9 +15,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   alert(document.cookie); 
   } 
 </script>
-<body> Bine ai venit la lab 
-  <button onclick="alertCookie()">
-    Show cookies
   </button> 
 </body>
 
