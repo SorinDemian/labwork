@@ -4,7 +4,14 @@ You can use the [editor on GitHub](https://github.com/SorinDemian/labwork/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<script> document.cookie = "session=test GDPR"; document.cookie = "favorite_task=collect Data"; function alertCookie() { alert(document.cookie); } </script>
+<script> 
+  document.cookie = "session=test GDPR"; 
+  document.cookie = "favorite_task=collect Data"; 
+  function alertCookie() 
+  { 
+  alert(document.cookie); 
+  } 
+</script>
 
 ### NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE
 
