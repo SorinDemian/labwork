@@ -1,4 +1,4 @@
-## Welcome to Septimiu Samartineanu's GitHub Page
+## Welcome to Sorin Demian's GitHub Page
 
 
 ### Cookie activitate practica
@@ -23,11 +23,6 @@ Temeiul juridic al prelucrării datelor cu caracter personal
 Datele furnizate de dumneavoastră sunt prelucrarte în mod legal pentru îndeplinirea obligațiilor legale stabilite de Legea educației naționale nr. 1/2011, Legea privind organizarea studiilor universitare nr. 288/2004, HG nr. 681/2011 privind aprobarea Codului studiilor universitare de doctorat, Ordinul ministrului Educației Naționale nr. 6102/2016, Metodologia cadru privind organizarea admiterii în ciclurile de studii universitare de licență, de masterat și de doctorat, HG. nr. 607/2014 privind aprobarea conținutului și formatului actelor de studii ce vor fi eliberate absolvenților ciclului I - studii universitare de licență, HG nr. 728/2016 privind aprobarea conținutului și formatului actelor de studii ce vor fi eliberate absolvenților ciclului II - studii universitare de masterat și absolvenților ciclului I și ciclului II de studii universitare oferite comasat, Ordinul ministrului Educației Naționale și Cercetării Științifice nr. 3482 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare, Legea nr. 80/1995 privind aprobarea Statutului cadrelor militare.  În conformitate cu prevederile Regulamentului UE nr. 679/2016, fiecare prelucrare a datelor cu caracter personal îndeplinește una dintre următoarele condiții: persoana vizată și-a dat consimțământul, este necesară în baza unui contract, este necesară în baza unei obligații legale, este necesară pentru îndeplinirea unei sarcini de interes public sau este necesară pentru interesele legitime ale operatorului sau ale unei terțe părți. 
 Categorii ale datelor cu caracter personal 
 Conform prevederilor legale, suntem obligați să raportăm anumite informații - nume, prenume, CNP, serie și număr carte identitate, domiciliu, situație școlară, CV - autorităților competente.
-
-
-
-
-
 
 Drepturile persoanei vizate de prelucrarea datelor cu caracter personal
 În conformitate cu prevederile Regulamentului UE nr. 679/2016, aveți dreptul de: 
@@ -104,8 +99,6 @@ Conform Regulamentului UE nr. 679/2016, aveți dreptul de a depune o plângere l
     document.cookie = "exam_user_name=; expires=Thu, 01 Jan 1970 00:00:00 GMT";
   }
  
-
-  
 </script>
 
 ### Cookies activitate laborator
