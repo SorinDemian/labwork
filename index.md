@@ -16,7 +16,7 @@ Doar cookie-urile cu exam ca prefix sunt cele cerute, restul si butoanele de la 
 
 Nota de informare:
 
-Notă de informare privind prelucrarea datelor cu caracter personal pentru studenții care participă la stagiul de mobilitate Erasmus de la programele de studii  ale Universitatii Tehnice din Cluj-Napoca
+### Notă de informare privind prelucrarea datelor cu caracter personal pentru studenții care participă la stagiul de mobilitate Erasmus de la programele de studii  ale Universitatii Tehnice din Cluj-Napoca
 
 Scopul prelucrării - colectarea și prelucrarea datelor dumneavoastră cu caracter personal se realizează în vederea îndeplinirii misiunii Universitatii conform cadrului legal în vigoare, respectiv în vederea furnizării de servicii educaționale. În vederea îndeplinirii scopului precizat anterior este necesar să furnizați datele dumneavoastră cu caracter personal. Refuzul de a furniza aceste date poate conduce la dificultăți în organizarea și funcționarea serviciilor educaționale oferite de Universitatea Tehnica.
 Temeiul juridic al prelucrării datelor cu caracter personal 
