@@ -6,6 +6,7 @@
 Doar cookie-urile cu exam ca prefix sunt cele cerute, restul si butoanele de la finalul paginii sunt cele create la sesiuniile de laborator. <br>
 
 <button onclick="doOnceExam()">Exam: Only once</button> <br>
+
 <button onclick="resetOnceExam()">Exam: Reset only once cookie</button> <br>
 
 ### Link DPIA: 
