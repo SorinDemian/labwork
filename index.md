@@ -1,7 +1,7 @@
 ## Welcome to Sorin Demian's GitHub Page
 
 
-### Cookie activitate practica
+### Activitate practica
 
 <button onclick="doOnceExam()">Exam: Only once</button> <br>
 
@@ -100,7 +100,7 @@ Conform Regulamentului UE nr. 679/2016, aveți dreptul de a depune o plângere l
  
 </script>
 
-### Cookies activitate laborator
+### Activitate laborator
 
 <button onclick="alertCookie()">Show cookies</button> <br>
 <button onclick="alertCookieValue()">Show cookie colorDepth</button> <br>
