@@ -3,9 +3,9 @@
 
 ### Activitate practica
 
-<button onclick="doOnceExam()">Exam: Only once</button> <br>
+<button onclick="doOnceExam()">Only once</button> <br>
 
-<button onclick="resetOnceExam()">Exam: Reset only once cookie</button> <br>
+<button onclick="resetOnceExam()">Reset only once cookie</button> <br>
 
 ### Link DPIA: 
 
